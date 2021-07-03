@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, c++ and web dev
 - 💞️ I’m looking to collaborate on projects on opencv and tensorflow
 - 📫 How to reach me :
-     gmail:maxwellkibetz@gmail.com
+     gmail:maxmicsofte@gmail.com
      insta:Topnotch_ai
      facebook:maxwellkemboi
      
