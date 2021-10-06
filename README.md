@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **movie-website**
 
-- 👨‍💻 All of my projects are available at [http://maxisz.ga](http://maxisz.ga)
+- 👨‍💻 All of my projects are available at [http://maxisz.ga](http://maxisz.ga) or [http://sites.google.com/view/minitesla]
 
-- 📝 I regularly write articles on [Study.steamacademy.world](Study.steamacademy.world)
+- 📝 I regularly write articles on [http://blog.maxisz.ga](blog.maxisz.ga)
 
 - 💬 Ask me about **React,vue,codeigniter,php,wordpress**
 
