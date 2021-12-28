@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Mini-tesla**
 
-- 🤝 I’m looking to making more **friends**
+- 🤝 I’m looking  forward to making more **friends**
 
-- 👨‍💻 All of my projects are available at [http://maxisz.ga](http://maxisz.ga) or [http://sites.google.com/view/minitesla]
+- 👨‍💻 All of my projects are available at [http://maxisz.ga](http://maxisz.ga) or [http://sites.google.com/view/minitesla] // site down
 
 - 📝 I regularly write articles on [http://blog.maxisz.ga](blog.maxisz.ga)
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **maxwellkibetz@gmail.com**
 
-- 📄 Know about my experiences [http://maxisz.ga](http://maxisz.ga)
+- 📄 Know about my experiences [https://micsofte.co.ke](micsofte.co.ke)
 
 - ⚡ Fun fact **I love coding :) and i love making friends :)**
 
