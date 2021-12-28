@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxisz" alt="maxisz" /></a> </p>
 
-- 🔭 I’m currently working on **Gaming site**
+- 🔭 I’m currently working on a **Gaming site**
 
 - 🌱 I’m currently learning **Codeigniter , laravel , react**
 
 - 👯 I’m looking to collaborate on **Mini-tesla**
 
-- 🤝 I’m looking for help with **movie-website**
+- 🤝 I’m looking to making more **friends**
 
 - 👨‍💻 All of my projects are available at [http://maxisz.ga](http://maxisz.ga) or [http://sites.google.com/view/minitesla]
 
